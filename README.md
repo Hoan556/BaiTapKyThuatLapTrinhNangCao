@@ -80,6 +80,8 @@ pip install tensorflow numpy pillow streamlit
 <img width="447" height="127" alt="image" src="https://github.com/user-attachments/assets/c5a118d7-5da2-4ce2-9d07-c3e3de1e3d01" />
 
 ## Bước 4 : Chạy Web
+
+##link youtobe:https://www.youtube.com/watch?v=ybD5VXUvkK8&t=7s
     - Mở terminal tại thư mục project: streamlit run app.py
     
     - Streamlit sẽ tự mở trình duyệt: http://localhost:8501
