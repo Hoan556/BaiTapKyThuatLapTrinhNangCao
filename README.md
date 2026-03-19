@@ -81,9 +81,8 @@ pip install tensorflow numpy pillow streamlit
 
 ## Bước 4 : Chạy Web
 
-##link youtobe:https://www.youtube.com/watch?v=ybD5VXUvkK8&t=7s
     - Mở terminal tại thư mục project: streamlit run app.py
-    
+# link youtobe:https://www.youtube.com/watch?v=ybD5VXUvkK8&t=7s
     - Streamlit sẽ tự mở trình duyệt: http://localhost:8501
 
     - Tại đây bạn có thể tải ảnh lên và dự đoán.
